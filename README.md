@@ -86,11 +86,12 @@ while True:
 5.  Method `ubah(self, nama, nilai_baru)` Mengubah nilai mahasiswa yang sudah ada berdasarkan nama.
 6.  Metode `daftar_nilai` menampilkan daftar nilai semua mahasiswa
 
-Program mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
+Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 1. Tambah data: untuk menambahkan data mahasiswa baru
 2. Tampilkan data: untuk menampilkan semua data mahasiswa yang telah dimasukkan
 3. Hapus data: Menghapus data mahasiswa berdasarkan nama
 4. Ubah data: Mengubah nilai mahasiswa berdasarkan nama
 5. Keluar: Keluar dari program
 
+# Diagram Class Tersebut :
 
