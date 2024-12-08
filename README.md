@@ -93,5 +93,10 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 4. Ubah data: Mengubah nilai mahasiswa berdasarkan nama
 5. Keluar: Keluar dari program
 
-# Diagram Class Tersebut :
+Diagram Class Tersebut :
 
+![gambar](https://github.com/andreanbadeh/Lab-8/blob/d23adec296d1bd226c228ebba55416ebc5b01b21/Images/Screenshot%20from%202024-12-08%2020-29-58.png)
+
+Dan Ini Flowchart : 
+
+![gambar](https://github.com/andreanbadeh/Lab-8/blob/d23adec296d1bd226c228ebba55416ebc5b01b21/Images/flowchart_mahasiswa.png)
