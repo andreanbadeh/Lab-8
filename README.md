@@ -78,3 +78,5 @@ while True:
     else:
         print("Pilihan tidak valid.")
 ```
+# Code Penjelasan
+`DaftarMahasiswa` adalah kelas yang mengelola daftar mahasiswa. Kelas ini memiliki metode untuk menambah, mengubah, menghapus, dan menampilkan daftar nilai mahasiswa.
