@@ -84,6 +84,7 @@ while True:
 3.  Method `tampilkan(self)` Menampilkan semua data mahasiswa yang tersimpan dalam daftar.
 4.  Method `hapus(self, nama)` Menghapus data mahasiswa berdasarkan nama.
 5.  Method `ubah(self, nama, nilai_baru)` Mengubah nilai mahasiswa yang sudah ada berdasarkan nama.
+6.  Metode `daftar_nilai` menampilkan daftar nilai semua mahasiswa
 
 Program mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 1. Tambah data: untuk menambahkan data mahasiswa baru
